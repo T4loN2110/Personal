@@ -1,4 +1,4 @@
-Invoice ID,Branch,Customer type,Gender,ProductID,Quantity,Tax 5%,Total,Date,Time,Payment,cogs,gross margin percentage,gross income,Rating
+Invoice ID,Branch,Customer type,Gender,ProductID,Quantity,Tax 5%,Total,Date,Time,Payment,cogs,gross margin percentage,gross_income,Rating
 750-67-8428,A,Member,Female,PID01,7,26.142,548.972,1/5/2019,13:08,Ewallet,522.83,4.761904762,26.142,9.1
 123-19-1176,A,Member,Male,PID02,8,23.288,489.048,1/27/2019,20:33,Ewallet,465.76,4.761904762,23.288,8.4
 355-53-5943,A,Member,Female,PID03,6,20.652,433.692,2/25/2019,14:36,Ewallet,413.04,4.761904762,20.652,5.8
